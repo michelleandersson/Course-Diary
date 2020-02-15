@@ -16,4 +16,15 @@ p {
 }
 .my-image {
     width: 200px; 
+    box-shadow: 8px 10px 5px rgb(61, 60, 59);
+}
+.footer {
+    background-color: rgba(22, 98, 119, 0.219);
+
+}
+.table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
 }
