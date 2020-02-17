@@ -5,13 +5,13 @@ body {
 .navigation {
     list-style-type: none;
 }
-h1 {
+.main-header {
     color: rgb(3, 103, 128);
 }
-h2, h3 {
+.titles {
     color: rgb(2, 96, 119);
 }
-h4{
+.dates{
     color:rgb(1, 46, 58);
 }
 p {
