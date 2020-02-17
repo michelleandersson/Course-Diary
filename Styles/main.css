@@ -11,7 +11,7 @@ body {
 .titles {
     color: rgb(2, 96, 119);
 }
-.dates{
+.dates, .author{
     color:rgb(1, 46, 58);
 }
 p {
